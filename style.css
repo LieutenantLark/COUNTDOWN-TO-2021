@@ -9,12 +9,20 @@ background: #fff	;
 margin: 25px auto;
 border: solid 5px #676767;
 }
+#status {
+width: 675px;
+height: 100px;
+background: #FF0000	;
+margin: 50px auto;
+}
 h1{
 text-align: center;
 font-family:"Times New Roman";
 font-size: 50pt;
 }
-.button {
-  float: left;
-  border: 1px solid green;
+h2{
+text-align: center;
+margin: 5px;
+font-family:"Times New Roman";
+font-size: 50pt;
 }
