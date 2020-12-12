@@ -1,0 +1,26 @@
+body{
+
+  border-style: solid;
+}
+h1 {
+  color: FF0000;
+  color: #000000;
+  text-align: center;
+  font-size: 50px
+
+}
+h6 {
+  color: FF0000;
+  color: #000000;
+  text-align: center;
+  font-size: 10px
+
+}
+p {
+  font-size: 25px;
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+  line-height: 1.6;
+  margin-left: 100px
+}
